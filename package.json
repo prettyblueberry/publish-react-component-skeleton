@@ -43,5 +43,14 @@
   },
   "author": "Blueberry",
   "main": "dist/index.js",
-  "module": "dist/index.js"
+  "module": "dist/index.js",
+  "keywords": [
+    "react-component",
+    "publish-npm",
+    "publish",
+    "react"
+    "component",
+    "babel",
+    "npm"
+  ]
 }
